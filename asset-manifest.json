@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Muszelus/static/css/main.20597de5.css",
+    "main.js": "/Muszelus/static/js/main.94a9a8a6.js",
+    "static/media/calculus.jpg": "/Muszelus/static/media/calculus.98387323193f1c371c98.jpg",
+    "static/media/algebra.jpg": "/Muszelus/static/media/algebra.d5a86a9b25523a641e7c.jpg",
+    "static/media/profile.jpg": "/Muszelus/static/media/profile.c147d8859c94fd6d57d0.jpg",
+    "static/media/sound.jpg": "/Muszelus/static/media/sound.559d9f1dc268417e5210.jpg",
+    "static/media/acting.jpg": "/Muszelus/static/media/acting.0894c8055e8116c583f3.jpg",
+    "static/media/reactjs.jpg": "/Muszelus/static/media/reactjs.5cd282d3beb924005037.jpg",
+    "static/media/relativity.jpg": "/Muszelus/static/media/relativity.a79be3ce940526c169c3.jpg",
+    "static/media/organicChemistry.jpg": "/Muszelus/static/media/organicChemistry.9cceabff33d0183bf5d3.jpg",
+    "static/media/DevangCICSResume.pdf": "/Muszelus/static/media/DevangCICSResume.92e9bfc68de283a33fb2.pdf",
+    "static/media/education.jpeg": "/Muszelus/static/media/education.e5ba0a3c756a868b36f5.jpeg",
+    "static/media/muszelusLogo.png": "/Muszelus/static/media/muszelusLogo.a7e535a47efa9d9964fb.png",
+    "index.html": "/Muszelus/index.html",
+    "main.20597de5.css.map": "/Muszelus/static/css/main.20597de5.css.map",
+    "main.94a9a8a6.js.map": "/Muszelus/static/js/main.94a9a8a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20597de5.css",
+    "static/js/main.94a9a8a6.js"
+  ]
+}
