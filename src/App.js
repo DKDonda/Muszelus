@@ -9,7 +9,7 @@ import ErrorPage from './pages/Error';
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/Muszelus',
     element:<RootPage />,
     errorElement: <ErrorPage />,
     children: [
