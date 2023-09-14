@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/muszelus/static/css/main.56113dfc.css",
-    "main.js": "/muszelus/static/js/main.cdffbc67.js",
+    "main.css": "/muszelus/static/css/main.7cc742e3.css",
+    "main.js": "/muszelus/static/js/main.1b8de4b6.js",
+    "static/media/joy.jpg": "/muszelus/static/media/joy.f75239483a807dfaf6e4.jpg",
     "static/media/calculus.jpg": "/muszelus/static/media/calculus.98387323193f1c371c98.jpg",
     "static/media/headshot.png": "/muszelus/static/media/headshot.5e2ae8f989e33dc6ef58.png",
     "static/media/algebra.jpg": "/muszelus/static/media/algebra.d5a86a9b25523a641e7c.jpg",
@@ -14,13 +15,16 @@
     "static/media/DevangCICSResume.pdf": "/muszelus/static/media/DevangCICSResume.92e9bfc68de283a33fb2.pdf",
     "static/media/education.jpeg": "/muszelus/static/media/education.e5ba0a3c756a868b36f5.jpeg",
     "static/media/DevangDondaActingResume.pdf": "/muszelus/static/media/DevangDondaActingResume.f3438e0546d1ce405a6e.pdf",
+    "static/media/sad.jpg": "/muszelus/static/media/sad.fe2d1b76d5c944b181ac.jpg",
     "static/media/muszelusLogo.png": "/muszelus/static/media/muszelusLogo.a7e535a47efa9d9964fb.png",
+    "static/media/pinch.jpg": "/muszelus/static/media/pinch.e5e9cee8c74876ad4111.jpg",
+    "static/media/ding.jpg": "/muszelus/static/media/ding.d730851cc89ee2989634.jpg",
     "index.html": "/muszelus/index.html",
-    "main.56113dfc.css.map": "/muszelus/static/css/main.56113dfc.css.map",
-    "main.cdffbc67.js.map": "/muszelus/static/js/main.cdffbc67.js.map"
+    "main.7cc742e3.css.map": "/muszelus/static/css/main.7cc742e3.css.map",
+    "main.1b8de4b6.js.map": "/muszelus/static/js/main.1b8de4b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.56113dfc.css",
-    "static/js/main.cdffbc67.js"
+    "static/css/main.7cc742e3.css",
+    "static/js/main.1b8de4b6.js"
   ]
 }
