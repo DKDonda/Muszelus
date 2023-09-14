@@ -6,7 +6,7 @@ const CardLink = (props) => {
   return (
       <div className={style.card}>
         <div className={style["card-container"]}>
-          <NavLink to="" className={style["card-link"]}>
+          <a href={props.link} className={style["card-link"]} target="blank">
             <div className={style["image-container"]}>
               <img src={props.src} alt="" />
             </div>
@@ -19,7 +19,7 @@ const CardLink = (props) => {
                 </div>
               <div className={style["card-description"]}>{props.description}</div>
             </div>
-          </NavLink>
+          </a>
         </div>
       </div>
   );
