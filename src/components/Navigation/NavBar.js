@@ -10,10 +10,10 @@ const NavBar = () => {
   const clicked = useSelector((state) => state.navlink.clicked);
   const dispatch = useDispatch();
 
-  const linkClickHandler = useCallback((num) => {
+  const linkClickHandler = (num) => {
     dispatch(navlinkActions.setClicked(num));
     setIsMenuVisible(!isMenuVisible);
-  },[]);
+  };
 
   const showButton = useCallback(() => {
     if (window.innerWidth > 790) {
