@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/muszelus/static/css/main.56113dfc.css",
-    "main.js": "/muszelus/static/js/main.f5a0f593.js",
+    "main.js": "/muszelus/static/js/main.cdffbc67.js",
     "static/media/calculus.jpg": "/muszelus/static/media/calculus.98387323193f1c371c98.jpg",
     "static/media/headshot.png": "/muszelus/static/media/headshot.5e2ae8f989e33dc6ef58.png",
     "static/media/algebra.jpg": "/muszelus/static/media/algebra.d5a86a9b25523a641e7c.jpg",
@@ -17,10 +17,10 @@
     "static/media/muszelusLogo.png": "/muszelus/static/media/muszelusLogo.a7e535a47efa9d9964fb.png",
     "index.html": "/muszelus/index.html",
     "main.56113dfc.css.map": "/muszelus/static/css/main.56113dfc.css.map",
-    "main.f5a0f593.js.map": "/muszelus/static/js/main.f5a0f593.js.map"
+    "main.cdffbc67.js.map": "/muszelus/static/js/main.cdffbc67.js.map"
   },
   "entrypoints": [
     "static/css/main.56113dfc.css",
-    "static/js/main.f5a0f593.js"
+    "static/js/main.cdffbc67.js"
   ]
 }
