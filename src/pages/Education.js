@@ -48,7 +48,6 @@ const EducationPage = () => {
           ))}
         </div>
       </Contain>
-      <div>This is the education page.</div>
     </>
   );
 };
