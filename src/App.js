@@ -45,7 +45,7 @@ function App() {
     <BrowserRouter>
       <ScrollToTop />
       <Routes>
-        <Route path="/" element={<RootPage />}>
+        <Route exact path="/muszelus" element={<RootPage />}>
           <Route path='portfolio' element={<PortfolioPage />} />
           <Route path="education" element={<EducationPage />} />
           <Route path="profession" element={<ProfessionalPage />} />
