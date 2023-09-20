@@ -6,7 +6,6 @@ export const navlinkSlice = createSlice({
     reducers:{
         setClicked(state, action) {
             state.clicked = action.payload;
-            console.log(state.clicked);
         }
     }
 });
