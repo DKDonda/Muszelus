@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/muszelus/static/css/main.6166f3a3.css",
+    "main.css": "/muszelus/static/css/main.f99009a0.css",
     "main.js": "/muszelus/static/js/main.1ea351e6.js",
     "static/media/joy.jpg": "/muszelus/static/media/joy.f75239483a807dfaf6e4.jpg",
     "static/media/calculus.jpg": "/muszelus/static/media/calculus.98387323193f1c371c98.jpg",
@@ -20,11 +20,11 @@
     "static/media/pinch.jpg": "/muszelus/static/media/pinch.e5e9cee8c74876ad4111.jpg",
     "static/media/ding.jpg": "/muszelus/static/media/ding.d730851cc89ee2989634.jpg",
     "index.html": "/muszelus/index.html",
-    "main.6166f3a3.css.map": "/muszelus/static/css/main.6166f3a3.css.map",
+    "main.f99009a0.css.map": "/muszelus/static/css/main.f99009a0.css.map",
     "main.1ea351e6.js.map": "/muszelus/static/js/main.1ea351e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.6166f3a3.css",
+    "static/css/main.f99009a0.css",
     "static/js/main.1ea351e6.js"
   ]
 }
