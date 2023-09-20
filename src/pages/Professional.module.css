@@ -45,6 +45,7 @@
   box-shadow: 2px 2px 5px 5px whitesmoke;
   width: auto;
   height: 100%;
+  transition: all 0.25s ease-in-out;
 }
 
 .acting img:hover {
