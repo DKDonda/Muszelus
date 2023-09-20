@@ -1,5 +1,7 @@
 .footer-container {
     padding: 20px;  
+    border: 3px solid rgb(97, 97, 78);
+    border-radius: 30px;
     background-color: rgb(63, 63, 63);
     display: flex;
     flex-wrap: wrap;
@@ -32,8 +34,10 @@
     text-align: center;
     padding: 10px;
     font-size: 22px;
-    border: 3px dashed #faffb0;
-    color:azure;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid #faffb0;
+    border-radius: 20px;
+    color:rgb(253, 253, 253);
     width: 100%;
 }
 .brand-item {
@@ -42,6 +46,7 @@
     text-decoration: none;
 }
 .brand-item a{ 
+    border-radius: 15px;
     padding: 10px;
     display: block;
     box-sizing: border-box;

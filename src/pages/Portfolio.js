@@ -10,10 +10,9 @@ const PortfolioPage = () => {
   return (
     <div>
       <div>
-        <Contain color={"#deb85f"}>
           <TopSection image={profilePic} />
-        </Contain>
-        <Contain color={"#fcfc72"}>
+        
+        <Contain color={"#38afff"}>
           <div className={style["past-profile"]}>
             <ul>
               <div className={style["text-title"]}>
