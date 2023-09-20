@@ -25,7 +25,7 @@ const NavBar = () => {
     <header className={style.navbar}>
       <div className={style["navbar-container"]}>
         {/* Item 1 */}
-        <NavLink to="/" className={style["navbar-logo"]} onClick={() => {setIsMenuVisible(false); dispatch(navlinkActions.setClicked(-1));}}>
+        <NavLink to="/muszelus" className={style["navbar-logo"]} onClick={() => {setIsMenuVisible(false); dispatch(navlinkActions.setClicked(-1));}}>
           <img src={logo} className={style.logo} />
           <div>Muszelus</div>
         </NavLink>
