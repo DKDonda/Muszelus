@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/muszelus/static/css/main.7cc742e3.css",
-    "main.js": "/muszelus/static/js/main.12dcea0c.js",
+    "main.css": "/muszelus/static/css/main.6166f3a3.css",
+    "main.js": "/muszelus/static/js/main.e201b24f.js",
     "static/media/joy.jpg": "/muszelus/static/media/joy.f75239483a807dfaf6e4.jpg",
     "static/media/calculus.jpg": "/muszelus/static/media/calculus.98387323193f1c371c98.jpg",
     "static/media/headshot.png": "/muszelus/static/media/headshot.5e2ae8f989e33dc6ef58.png",
@@ -20,11 +20,11 @@
     "static/media/pinch.jpg": "/muszelus/static/media/pinch.e5e9cee8c74876ad4111.jpg",
     "static/media/ding.jpg": "/muszelus/static/media/ding.d730851cc89ee2989634.jpg",
     "index.html": "/muszelus/index.html",
-    "main.7cc742e3.css.map": "/muszelus/static/css/main.7cc742e3.css.map",
-    "main.12dcea0c.js.map": "/muszelus/static/js/main.12dcea0c.js.map"
+    "main.6166f3a3.css.map": "/muszelus/static/css/main.6166f3a3.css.map",
+    "main.e201b24f.js.map": "/muszelus/static/js/main.e201b24f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cc742e3.css",
-    "static/js/main.12dcea0c.js"
+    "static/css/main.6166f3a3.css",
+    "static/js/main.e201b24f.js"
   ]
 }
