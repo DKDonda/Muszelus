@@ -74,7 +74,7 @@ const Footer = () => {
             </a>
           </li>
           <li className={style["contact-me-item"]}>
-            <a href="https://github.com/DKDonda" target="_blank">
+            <a href="https://github.com/devangdonda" target="_blank">
               <i class="fa-brands fa-github fa-2x"></i>
             </a>
           </li>
