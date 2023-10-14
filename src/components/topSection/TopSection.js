@@ -1,5 +1,6 @@
 import React from "react";
 import style from "./TopSection.module.css";
+import Typography from "@mui/material/Typography/Typography";
 
 const TopSection = (props) => {
   return (
@@ -8,8 +9,8 @@ const TopSection = (props) => {
         <div className={style["heading-text"]}>Present</div>
         <ul className={style["description-text"]}>
           <li className={style["text-item"]}>
-            I am currently working on implementing React to an
-            advanced level in an upcoming Mega-Project.
+              I am currently working on implementing React to an advanced level
+              in an upcoming Mega-Project.
           </li>
         </ul>
       </div>
@@ -23,8 +24,8 @@ const TopSection = (props) => {
             I will be wrapping up my Workout Project and wrap up with react.
           </li>
           <li className={style["text-item"]}>
-            I may learn <b>Framer Motion</b> Library use it in my
-            website and upcoming project.
+            I may learn <b>Framer Motion</b> Library use it in my website and
+            upcoming project.
           </li>
         </ul>
       </div>

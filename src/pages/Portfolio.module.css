@@ -1,9 +1,12 @@
 .text-title{
     padding: 8px;
+    font-family: 'Roboto', serif;
     font-size: 24px;
     font-weight: bold;
     font-style: italic;
     letter-spacing: 1px;
+    color:'wheat';
+    text-decoration: 'underline'
 }
 
 .past-profile > ul {
@@ -17,8 +20,8 @@
     align-items: stretch;
 }
 .past-profile > ul > li {
+    font-family: 'Roboto', serif;
     padding: 8px;
-    font-weight: bolder;
     font-size: 19px;
     color: rgb(0, 34, 39);
 }
@@ -31,7 +34,6 @@
     padding: 8px;
     font-size: 24px;
     font-weight: bold;
-    font-style: italic;
     letter-spacing: 1px;
 }
 
