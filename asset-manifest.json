@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/muszelus/static/css/main.5acb29c8.css",
-    "main.js": "/muszelus/static/js/main.581f1772.js",
+    "main.css": "/muszelus/static/css/main.46a0f070.css",
+    "main.js": "/muszelus/static/js/main.32c82e44.js",
     "static/media/joy.jpg": "/muszelus/static/media/joy.f75239483a807dfaf6e4.jpg",
     "static/media/calculus.jpg": "/muszelus/static/media/calculus.98387323193f1c371c98.jpg",
     "static/media/headshot.png": "/muszelus/static/media/headshot.5e2ae8f989e33dc6ef58.png",
@@ -9,22 +9,25 @@
     "static/media/profile.jpg": "/muszelus/static/media/profile.c147d8859c94fd6d57d0.jpg",
     "static/media/sound.jpg": "/muszelus/static/media/sound.559d9f1dc268417e5210.jpg",
     "static/media/acting.jpg": "/muszelus/static/media/acting.0894c8055e8116c583f3.jpg",
+    "static/media/chest.jpg": "/muszelus/static/media/chest.e6469f5c5ab276b4debf.jpg",
     "static/media/reactjs.jpg": "/muszelus/static/media/reactjs.5cd282d3beb924005037.jpg",
     "static/media/relativity.jpg": "/muszelus/static/media/relativity.a79be3ce940526c169c3.jpg",
     "static/media/organicChemistry.jpg": "/muszelus/static/media/organicChemistry.9cceabff33d0183bf5d3.jpg",
     "static/media/DevangCICSResume.pdf": "/muszelus/static/media/DevangCICSResume.92e9bfc68de283a33fb2.pdf",
     "static/media/DevangDondaActingResume.pdf": "/muszelus/static/media/DevangDondaActingResume.f3438e0546d1ce405a6e.pdf",
     "static/media/education.jpeg": "/muszelus/static/media/education.66e248d77304957b3c1d.jpeg",
+    "static/media/cantStop.jpg": "/muszelus/static/media/cantStop.7c03e419c0a36e509506.jpg",
     "static/media/sad.jpg": "/muszelus/static/media/sad.fe2d1b76d5c944b181ac.jpg",
     "static/media/muszelusLogo.png": "/muszelus/static/media/muszelusLogo.a7e535a47efa9d9964fb.png",
     "static/media/pinch.jpg": "/muszelus/static/media/pinch.e5e9cee8c74876ad4111.jpg",
     "static/media/ding.jpg": "/muszelus/static/media/ding.d730851cc89ee2989634.jpg",
+    "static/media/website.webp": "/muszelus/static/media/website.2b2bdf2e6121ebf3b398.webp",
     "index.html": "/muszelus/index.html",
-    "main.5acb29c8.css.map": "/muszelus/static/css/main.5acb29c8.css.map",
-    "main.581f1772.js.map": "/muszelus/static/js/main.581f1772.js.map"
+    "main.46a0f070.css.map": "/muszelus/static/css/main.46a0f070.css.map",
+    "main.32c82e44.js.map": "/muszelus/static/js/main.32c82e44.js.map"
   },
   "entrypoints": [
-    "static/css/main.5acb29c8.css",
-    "static/js/main.581f1772.js"
+    "static/css/main.46a0f070.css",
+    "static/js/main.32c82e44.js"
   ]
 }
